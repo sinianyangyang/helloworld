@@ -1,2 +1,4 @@
-# helloworld
-第一次学习创建
+Nice to meet you.
+I am new here.
+I need your help!
+Thank you!
